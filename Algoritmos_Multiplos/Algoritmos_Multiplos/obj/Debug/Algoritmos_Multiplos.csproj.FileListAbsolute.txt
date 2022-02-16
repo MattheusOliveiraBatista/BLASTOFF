@@ -1,0 +1,6 @@
+C:\Users\matba\Pictures\Algoritmos_Multiplos\Algoritmos_Multiplos\bin\Debug\Algoritmos_Multiplos.exe.config
+C:\Users\matba\Pictures\Algoritmos_Multiplos\Algoritmos_Multiplos\bin\Debug\Algoritmos_Multiplos.exe
+C:\Users\matba\Pictures\Algoritmos_Multiplos\Algoritmos_Multiplos\bin\Debug\Algoritmos_Multiplos.pdb
+C:\Users\matba\Pictures\Algoritmos_Multiplos\Algoritmos_Multiplos\obj\Debug\Algoritmos_Multiplos.csproj.CoreCompileInputs.cache
+C:\Users\matba\Pictures\Algoritmos_Multiplos\Algoritmos_Multiplos\obj\Debug\Algoritmos_Multiplos.exe
+C:\Users\matba\Pictures\Algoritmos_Multiplos\Algoritmos_Multiplos\obj\Debug\Algoritmos_Multiplos.pdb

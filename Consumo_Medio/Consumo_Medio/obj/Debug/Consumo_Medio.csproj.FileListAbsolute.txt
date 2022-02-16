@@ -1,0 +1,7 @@
+C:\Users\matba\Pictures\Consumo_Medio\Consumo_Medio\bin\Debug\Consumo_Medio.exe.config
+C:\Users\matba\Pictures\Consumo_Medio\Consumo_Medio\bin\Debug\Consumo_Medio.exe
+C:\Users\matba\Pictures\Consumo_Medio\Consumo_Medio\bin\Debug\Consumo_Medio.pdb
+C:\Users\matba\Pictures\Consumo_Medio\Consumo_Medio\obj\Debug\Consumo_Medio.csproj.AssemblyReference.cache
+C:\Users\matba\Pictures\Consumo_Medio\Consumo_Medio\obj\Debug\Consumo_Medio.csproj.CoreCompileInputs.cache
+C:\Users\matba\Pictures\Consumo_Medio\Consumo_Medio\obj\Debug\Consumo_Medio.exe
+C:\Users\matba\Pictures\Consumo_Medio\Consumo_Medio\obj\Debug\Consumo_Medio.pdb

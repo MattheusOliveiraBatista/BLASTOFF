@@ -1,0 +1,7 @@
+C:\Users\matba\Pictures\Numeros_Pares\Numeros_Pares\bin\Debug\Numeros_Pares.exe.config
+C:\Users\matba\Pictures\Numeros_Pares\Numeros_Pares\bin\Debug\Numeros_Pares.exe
+C:\Users\matba\Pictures\Numeros_Pares\Numeros_Pares\bin\Debug\Numeros_Pares.pdb
+C:\Users\matba\Pictures\Numeros_Pares\Numeros_Pares\obj\Debug\Numeros_Pares.csproj.AssemblyReference.cache
+C:\Users\matba\Pictures\Numeros_Pares\Numeros_Pares\obj\Debug\Numeros_Pares.csproj.CoreCompileInputs.cache
+C:\Users\matba\Pictures\Numeros_Pares\Numeros_Pares\obj\Debug\Numeros_Pares.exe
+C:\Users\matba\Pictures\Numeros_Pares\Numeros_Pares\obj\Debug\Numeros_Pares.pdb

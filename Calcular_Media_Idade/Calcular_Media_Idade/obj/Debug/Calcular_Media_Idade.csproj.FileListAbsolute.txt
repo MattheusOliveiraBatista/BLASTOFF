@@ -1,0 +1,7 @@
+C:\Users\matba\Pictures\Calcular_Media_Idade\Calcular_Media_Idade\bin\Debug\Calcular_Media_Idade.exe.config
+C:\Users\matba\Pictures\Calcular_Media_Idade\Calcular_Media_Idade\bin\Debug\Calcular_Media_Idade.exe
+C:\Users\matba\Pictures\Calcular_Media_Idade\Calcular_Media_Idade\bin\Debug\Calcular_Media_Idade.pdb
+C:\Users\matba\Pictures\Calcular_Media_Idade\Calcular_Media_Idade\obj\Debug\Calcular_Media_Idade.csproj.AssemblyReference.cache
+C:\Users\matba\Pictures\Calcular_Media_Idade\Calcular_Media_Idade\obj\Debug\Calcular_Media_Idade.csproj.CoreCompileInputs.cache
+C:\Users\matba\Pictures\Calcular_Media_Idade\Calcular_Media_Idade\obj\Debug\Calcular_Media_Idade.exe
+C:\Users\matba\Pictures\Calcular_Media_Idade\Calcular_Media_Idade\obj\Debug\Calcular_Media_Idade.pdb

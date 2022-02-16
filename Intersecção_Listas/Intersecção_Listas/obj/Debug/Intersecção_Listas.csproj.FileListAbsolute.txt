@@ -1,0 +1,7 @@
+C:\Users\matba\Pictures\Intersecção_Listas\Intersecção_Listas\bin\Debug\Intersecção_Listas.exe.config
+C:\Users\matba\Pictures\Intersecção_Listas\Intersecção_Listas\bin\Debug\Intersecção_Listas.exe
+C:\Users\matba\Pictures\Intersecção_Listas\Intersecção_Listas\bin\Debug\Intersecção_Listas.pdb
+C:\Users\matba\Pictures\Intersecção_Listas\Intersecção_Listas\obj\Debug\Intersecção_Listas.csproj.AssemblyReference.cache
+C:\Users\matba\Pictures\Intersecção_Listas\Intersecção_Listas\obj\Debug\Intersecção_Listas.csproj.CoreCompileInputs.cache
+C:\Users\matba\Pictures\Intersecção_Listas\Intersecção_Listas\obj\Debug\Intersecção_Listas.exe
+C:\Users\matba\Pictures\Intersecção_Listas\Intersecção_Listas\obj\Debug\Intersecção_Listas.pdb

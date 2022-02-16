@@ -1,0 +1,7 @@
+C:\Users\matba\Pictures\Calcular_Duração_Partida\Calcular_Duração_Partida\bin\Debug\Calcular_Duração_Partida.exe.config
+C:\Users\matba\Pictures\Calcular_Duração_Partida\Calcular_Duração_Partida\bin\Debug\Calcular_Duração_Partida.exe
+C:\Users\matba\Pictures\Calcular_Duração_Partida\Calcular_Duração_Partida\bin\Debug\Calcular_Duração_Partida.pdb
+C:\Users\matba\Pictures\Calcular_Duração_Partida\Calcular_Duração_Partida\obj\Debug\Calcular_Duração_Partida.csproj.AssemblyReference.cache
+C:\Users\matba\Pictures\Calcular_Duração_Partida\Calcular_Duração_Partida\obj\Debug\Calcular_Duração_Partida.csproj.CoreCompileInputs.cache
+C:\Users\matba\Pictures\Calcular_Duração_Partida\Calcular_Duração_Partida\obj\Debug\Calcular_Duração_Partida.exe
+C:\Users\matba\Pictures\Calcular_Duração_Partida\Calcular_Duração_Partida\obj\Debug\Calcular_Duração_Partida.pdb

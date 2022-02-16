@@ -1,0 +1,6 @@
+C:\Users\matba\Pictures\Menor_Numero\Menor_Numero\bin\Debug\Menor_Numero.exe.config
+C:\Users\matba\Pictures\Menor_Numero\Menor_Numero\bin\Debug\Menor_Numero.exe
+C:\Users\matba\Pictures\Menor_Numero\Menor_Numero\bin\Debug\Menor_Numero.pdb
+C:\Users\matba\Pictures\Menor_Numero\Menor_Numero\obj\Debug\Menor_Numero.csproj.CoreCompileInputs.cache
+C:\Users\matba\Pictures\Menor_Numero\Menor_Numero\obj\Debug\Menor_Numero.exe
+C:\Users\matba\Pictures\Menor_Numero\Menor_Numero\obj\Debug\Menor_Numero.pdb

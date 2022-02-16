@@ -1,0 +1,7 @@
+C:\Users\matba\source\repos\Concatenar_Listas\Concatenar_Listas\bin\Debug\Concatenar_Listas.exe.config
+C:\Users\matba\source\repos\Concatenar_Listas\Concatenar_Listas\bin\Debug\Concatenar_Listas.exe
+C:\Users\matba\source\repos\Concatenar_Listas\Concatenar_Listas\bin\Debug\Concatenar_Listas.pdb
+C:\Users\matba\source\repos\Concatenar_Listas\Concatenar_Listas\obj\Debug\Concatenar_Listas.csproj.CoreCompileInputs.cache
+C:\Users\matba\source\repos\Concatenar_Listas\Concatenar_Listas\obj\Debug\Concatenar_Listas.exe
+C:\Users\matba\source\repos\Concatenar_Listas\Concatenar_Listas\obj\Debug\Concatenar_Listas.pdb
+C:\Users\matba\source\repos\Concatenar_Listas\Concatenar_Listas\obj\Debug\Concatenar_Listas.csproj.AssemblyReference.cache

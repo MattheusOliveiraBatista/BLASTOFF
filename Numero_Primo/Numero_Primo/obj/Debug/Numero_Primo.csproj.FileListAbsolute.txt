@@ -1,0 +1,7 @@
+C:\Users\matba\Pictures\Numero_Primo\Numero_Primo\bin\Debug\Numero_Primo.exe.config
+C:\Users\matba\Pictures\Numero_Primo\Numero_Primo\bin\Debug\Numero_Primo.exe
+C:\Users\matba\Pictures\Numero_Primo\Numero_Primo\bin\Debug\Numero_Primo.pdb
+C:\Users\matba\Pictures\Numero_Primo\Numero_Primo\obj\Debug\Numero_Primo.csproj.AssemblyReference.cache
+C:\Users\matba\Pictures\Numero_Primo\Numero_Primo\obj\Debug\Numero_Primo.csproj.CoreCompileInputs.cache
+C:\Users\matba\Pictures\Numero_Primo\Numero_Primo\obj\Debug\Numero_Primo.exe
+C:\Users\matba\Pictures\Numero_Primo\Numero_Primo\obj\Debug\Numero_Primo.pdb

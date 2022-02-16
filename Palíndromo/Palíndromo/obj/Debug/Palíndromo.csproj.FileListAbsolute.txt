@@ -1,0 +1,7 @@
+C:\Users\matba\source\repos\Palíndromo\Palíndromo\bin\Debug\Palíndromo.exe.config
+C:\Users\matba\source\repos\Palíndromo\Palíndromo\bin\Debug\Palíndromo.exe
+C:\Users\matba\source\repos\Palíndromo\Palíndromo\bin\Debug\Palíndromo.pdb
+C:\Users\matba\source\repos\Palíndromo\Palíndromo\obj\Debug\Palíndromo.csproj.AssemblyReference.cache
+C:\Users\matba\source\repos\Palíndromo\Palíndromo\obj\Debug\Palíndromo.csproj.CoreCompileInputs.cache
+C:\Users\matba\source\repos\Palíndromo\Palíndromo\obj\Debug\Palíndromo.exe
+C:\Users\matba\source\repos\Palíndromo\Palíndromo\obj\Debug\Palíndromo.pdb

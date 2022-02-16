@@ -1,0 +1,7 @@
+C:\Users\matba\Pictures\Fatorial\Fatorial\bin\Debug\Fatorial.exe.config
+C:\Users\matba\Pictures\Fatorial\Fatorial\bin\Debug\Fatorial.exe
+C:\Users\matba\Pictures\Fatorial\Fatorial\bin\Debug\Fatorial.pdb
+C:\Users\matba\Pictures\Fatorial\Fatorial\obj\Debug\Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\matba\Pictures\Fatorial\Fatorial\obj\Debug\Fatorial.exe
+C:\Users\matba\Pictures\Fatorial\Fatorial\obj\Debug\Fatorial.pdb
+C:\Users\matba\Pictures\Fatorial\Fatorial\obj\Debug\Fatorial.csproj.AssemblyReference.cache
